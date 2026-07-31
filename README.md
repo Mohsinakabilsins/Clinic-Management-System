@@ -1,6 +1,6 @@
-# ClinicQ 2.0 — Premium MERN Clinic Operations Platform
+#OmniClinic Engine— Premium MERN Clinic Operations Platform
 
-ClinicQ 2.0 is a polished, full-stack MERN clinic operating system built around the original ClinicQ concept.
+OmniClinic Engine is a polished, full-stack MERN clinic operating system built around the original ClinicQ concept.
 
 ## What is included
 
